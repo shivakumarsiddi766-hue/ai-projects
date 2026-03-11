@@ -1,0 +1,9 @@
+data/
+llm_model/
+__pycache__/
+*.pt
+*.pth
+*.pkl
+*.zip
+*.tar.gz
+.vscode/
